@@ -38,5 +38,5 @@ image:
   repository: quay.io/jetstack/cert-manager-cainjector
   # Override the image tag to deploy by setting this variable.
   # If no value is set, the chart's appVersion will be used.
-  # tag: canary
+  tag: v0.8.1
   pullPolicy: IfNotPresent
